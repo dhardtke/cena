@@ -23,7 +23,7 @@
     "typecheck": "bun check"
   },
   "dependencies": {
-    "@knadh/oat": "1.0.0"
+    "@knadh/oat": "1.1.0"
   },
   "devDependencies": {
     "@types/bun": "1.4.4",

@@ -5,7 +5,7 @@
     "": {
       "name": "cena",
       "dependencies": {
-        "@knadh/oat": "1.0.0",
+        "@knadh/oat": "1.1.0",
       },
       "devDependencies": {
         "@types/bun": "1.4.4",
@@ -18,7 +18,7 @@
     },
   },
   "packages": {
-    "@knadh/oat": ["@knadh/oat@1.0.0", "", {}, "sha512-8+ZoFS08UFVgcm8CZwW9ehELvELBxxaKFGE3S+n8nOTeUplIumwhe5ov66izL4peBOmiQU6cJ9zk5Z77Vh/nDQ=="],
+    "@knadh/oat": ["@knadh/oat@1.1.0", "", {}, "sha512-6nYrV+a5qiLmcyUeQmvbs6xNECaqRI37x9Ds9K8SN5jgKvJxFL+AlZQDHLELtdtp1wD1pUul29XNv8GI69gzUw=="],
 
     "@oxlint-tsgolint/darwin-arm64": ["@oxlint-tsgolint/darwin-arm64@7.0.2005", "", { "os": "darwin", "cpu": "arm64" }, "sha512-VqDZxcZVjlonNLuuvraVNgDQt+1ndwa4yJo8OqsK4HYh/61ba9IlMStCVfi/aaIqRoDhNbAKC8gdcTrXqnb+Ug=="],
 
