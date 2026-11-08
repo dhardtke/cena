@@ -29,7 +29,7 @@
     "@types/bun": "1.4.4",
     "happy-dom": "21.0.4",
     "oxlint": "1.91.0",
-    "oxlint-tsgolint": "7.0.2005",
+    "oxlint-tsgolint": "7.0.2006",
     "peggy": "5.1.1",
     "typescript": "7.0.2"
   },
